@@ -9,10 +9,10 @@ Macro of ImageJ-FIJI function "Image>Stacks>Z Project...Max Intensity" for multi
 6. All the opened stacked image windows will be processed and will open automatically.
 
 Observations:
-Instead of installing and making it quickly available in a list, you can directly run the macro in "Plugins>Macros>Run..." and finding the macro file (.ijm) in your files directory. Kind of skipping Step 2.
-All image windows that are opened will be processed.
-Note that non-stack opened images will be listed but not processed. A "Macro Error" pop-up will open indicating that stacks are required for this. Be sure to close non-stack images before running the macro.
-You can change the code to other Z Project subfunctions if you want.
+1. Instead of installing and making it quickly available in a list, you can directly run the macro in "Plugins>Macros>Run..." and finding the macro file (.ijm) in your files directory. Kind of skipping Step 2.
+2. All image windows that are opened will be processed.
+3. Note that non-stack opened images will be listed but not processed. A "Macro Error" pop-up will open indicating that stacks are required for this. Be sure to close non-stack images before running the macro.
+4. You can change the code to other Z Project subfunctions if you want.
+5. I just wanted to make it quicker to analyse my confocal images .lif files that I need to flatten prior to analysis.
 
-I just wanted to make it quicker to analyse my confocal images .lif files that I need to flatten prior to analysis.
 E-mail me at pammeneses@ufrj.br if you have any doubts or comments :)
