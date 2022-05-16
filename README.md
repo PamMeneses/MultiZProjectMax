@@ -14,5 +14,5 @@ All image windows that are opened will be processed.
 Note that non-stack opened images will be listed but not processed. A "Macro Error" pop-up will open indicating that stacks are required for this. Be sure to close non-stack images before running the macro.
 You can change the code to other Z Project subfunctions if you want.
 
-I just wanted to make it quicker to analyse my confocal images .lif files that I need to flatten prior to analysis 
+I just wanted to make it quicker to analyse my confocal images .lif files that I need to flatten prior to analysis.
 E-mail me at pammeneses@ufrj.br if you have any doubts or comments :)
